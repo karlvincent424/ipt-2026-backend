@@ -31,4 +31,4 @@ export default function model(sequelize: any) {
     };
     
     return sequelize.define('account', attributes, options);
-}
+} 
